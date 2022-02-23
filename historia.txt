@@ -5,3 +5,5 @@ Esta historia es la de José Alex Herrera
 Tiene fe en esta nueva aventura.
 
 Es mexicano y bien chido.
+
+Además está aprendiendo de git y github.
