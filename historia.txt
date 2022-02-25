@@ -9,3 +9,5 @@ Es mexicano y bien chido.
 Además está aprendiendo de git y github.
 
 Y ahora quiere entende que pasa con nano.
+
+Ya está haciando los ejercicios junto a Freddy.
